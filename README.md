@@ -1,4 +1,7 @@
 
+Made with streamlit
+run commmand:
+python -m streamlit run app.py
 
 How it works (4 specialized AI agents working together):
 
